@@ -2,6 +2,7 @@
 
 ## I'm a student and Frontend-developer
 
-Languages and Tools
+Languages and Tools:
+    English(A2). HTML, CSS, JavaScript, ReactJS,Adapt Website.Frameworks JS: Jquery, SVG.
 
-Last site
+[![Last Website]](https://www.youtube.com/playlist?list=WL)
