@@ -1,14 +1,24 @@
-![Header](https://github.com/faes763/faes763/blob/main/assets/m4.jpg)
-
-## I'm a student and Frontend-developer
-
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ## Languages and Tools:
-![HTML](https://img.shields.io/badge/-html-121212?style=for-the-badge&logo=html)
-![CSS](https://img.shields.io/badge/-css-121212?style=for-the-badge&logo=css)
-![ReactJs](https://img.shields.io/badge/-ReactJs-121212?style=for-the-badge&logo=react)
-![Jquery](https://img.shields.io/badge/-Jquery-121212?style=for-the-badge&logo=Jquery)
-![SVG](https://img.shields.io/badge/-SVG-121212?style=for-the-badge&logo=SVG)
-<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-121212?style=for-the-badge&logo=MongoDB) -->
-## English(A2). HTML, CSS, JavaScript, ReactJS,Adapt Website.Frameworks JS: Jquery, SVG.
 
-## [My Last Website](https://www.youtube.com/playlist?list=WL)
+![HTML5](https://img.shields.io/badge/-html5-121212?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-css3-121212?style=for-the-badge&logo=css3)
+![Node.Js](https://img.shields.io/badge/-node.js-121212?style=for-the-badge&logo=node.js)
+![Solidity](https://img.shields.io/badge/-solidity-121212?style=for-the-badge&logo=solidity)
+![Express](https://img.shields.io/badge/-express-121212?style=for-the-badge&logo=express)
+![ReactJs](https://img.shields.io/badge/-ReactJs-121212?style=for-the-badge&logo=react)
+![SVG](https://img.shields.io/badge/-SVG-121212?style=for-the-badge&logo=SVG)
+
+## HTML, CSS, SCSS, Tailwind, JavaScript
+## ReactJS, Next.js, electron, nextron
+## C#, Unity
+## Solidity, web3.js, ethers.js 
+## express.js, nest.js
+
+=======
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faes763)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=faes763)](https://git.io/streak-stats)
+
+
