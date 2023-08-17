@@ -1,4 +1,5 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Frontend || Blocklchain developer</h3>
 ## Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-html5-121212?style=for-the-badge&logo=html5)
@@ -15,10 +16,10 @@
 ## Solidity, web3.js, ethers.js 
 ## express.js, nest.js
 
-=======
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faes763)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=faes763)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wr479)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faes763&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faes763&theme=tokyonight)
 
