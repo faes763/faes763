@@ -16,10 +16,6 @@
 ## Solidity, web3.js, ethers.js 
 ## express.js, nest.js
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wr479)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faes763&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faes763&theme=tokyonight)
 
