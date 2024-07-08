@@ -6,13 +6,29 @@
  <tr><td><img width="20px" src="assets/russia.png" height="13"> Russian</td></tr>
 </table>
 
-### **About me**
+
+```javascript
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : [ "Typescript", "Javascript", "C#", "Solidity" ],
+    "OtherLanguages" : [ "HTML", "CSS", "Bash", "Json", "Markdown" ],
+    "Database" : [ "SQL", "MongoDB" ],
+    "Editors" : [ "Vscode", "Zed", "Neovim" ],
+    "Platforms" : [ "Mac", "GNU/Linux", "Windows" ],
+    "OtherTools" : [ "Git", "Figma" ]
+  };
+}
+
+```
+<!-- ### **About me**
 
 :: technology: Frontend and Blockchain Developer.
 
 :: seedlin:  Love for science and innovation.
 
-:: writing hand:  Currently researching software architecture, development, and quality.
+:: writing hand:  Currently researching software architecture, development, and quality. -->
 
 <p alight="right"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="60"></p>
 <!-- 
