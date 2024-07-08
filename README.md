@@ -26,7 +26,7 @@ linux
 <hr>
 
 <details>
-  <summary>Main tech knowledge</summary>
+  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
   ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
@@ -52,7 +52,7 @@ linux
 </details>
 
 <details>
-  <summary>Other knowledge, always learning</summary>
+  <summary><b>:brain: &nbsp;Other knowledge, always learning</b></summary>
   <br/>
 
   ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
