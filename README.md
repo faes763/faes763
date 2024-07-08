@@ -30,7 +30,6 @@ class About extends Me {
 
 :: writing hand:  Currently researching software architecture, development, and quality. -->
 
-<p alight="right"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="60"></p>
 <!-- 
 GitHub, GitLab, Docker, Ansible
 VSCode
