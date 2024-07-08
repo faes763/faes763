@@ -79,6 +79,5 @@ linux
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faes763&theme=tokyonight" width="32.5%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faes763&theme=tokyonight" width="32.5%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-  <!--  -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=faes763" width="32.5%">
 </details>
