@@ -2,8 +2,8 @@
 
 <table align="right">
  <tr><td>I known</td></tr>
- <tr><td><img width="50px" src="assets/english.png" height="13"> English</td></tr>
- <tr><td><img width="50px" src="assets/russia.png" height="13"> Russian</td></tr>
+ <tr><td><img width="26px" src="assets/english.png" height="13"> English</td></tr>
+ <tr><td><img width="26px" src="assets/russia.png" height="13"> Russian</td></tr>
 </table>
 
 ### **About me**
