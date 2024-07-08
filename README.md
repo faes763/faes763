@@ -77,8 +77,12 @@ linux
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faes763&theme=tokyonight" width="32.5%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faes763&theme=tokyonight" width="32.5%">
-  <img src="https://github-readme-stats.vercel.app/api?username=faes763&show_icons=true" width="32.5%">
+  <p align="center">
+    <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faes763&theme=tokyonight" >
+  </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="32.5%">
+  <img src="https://github-readme-stats.vercel.app/api?username=faes763&show_icons=true&theme=tokyonight" width="32.5%">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 
 </details>
