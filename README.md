@@ -1,10 +1,13 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, there! </h1>
 
-<table align="right">
+<!-- <table align="right">
  <tr><td>I known</td></tr>
  <tr><td><img width="20px" src="assets/english.png" height="13"> English</td></tr>
  <tr><td><img width="20px" src="assets/russia.png" height="13"> Russian</td></tr>
-</table>
+</table> -->
+
+<!-- <p alight="right"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="60"></p> -->
+
 
 
 ```javascript
