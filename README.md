@@ -1,11 +1,11 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, there! </h1>
 
-### **About me**
 <table align="right">
  <tr><td>Language i known</td></tr>
  <tr><td><img src="assets/england.png" height="13"> English</td></tr>
  <tr><td><img src="assets/russia.png" height="13"> Russian</td></tr>
 </table>
+### **About me**
 :: technology: Frontend and Blockchain Developer
 
 :: seedlin:  Love for science and innovation.
