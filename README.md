@@ -1,11 +1,11 @@
 # **Hi, there**
 
-About me 
+### **About**
 
-:: Frontend and Blockchain Developer ::
+:: technology: Frontend and Blockchain Developer
 
-:: seedlin  Love for science and innovation. ::
+:: seedlin:  Love for science and innovation.
 
-:: writing\_hand  Currently researching software architecture, development, and quality. ::
+:: writing hand:  Currently researching software architecture, development, and quality.
 
 ### **Main tech knowledge**
