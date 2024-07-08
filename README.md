@@ -1,12 +1,7 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, there! </h1>
 
-<!-- <table align="right">
- <tr><td>I known</td></tr>
- <tr><td><img width="20px" src="assets/english.png" height="13"> English</td></tr>
- <tr><td><img width="20px" src="assets/russia.png" height="13"> Russian</td></tr>
-</table> -->
 
-<!-- <p alight="right"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="60"></p> -->
+
 
 
 
@@ -24,14 +19,22 @@ class About extends Me {
   };
 }
 
+<table align="right">
+ <tr><td>I known</td></tr>
+ <tr><td><img width="20px" src="assets/english.png" height="13"> English</td></tr>
+ <tr><td><img width="20px" src="assets/russia.png" height="13"> Russian</td></tr>
+</table>
+
 ```
-<!-- ### **About me**
+### **About me**
 
 :: technology: Frontend and Blockchain Developer.
 
 :: seedlin:  Love for science and innovation.
 
-:: writing hand:  Currently researching software architecture, development, and quality. -->
+:: writing hand:  Currently researching software architecture, development, and quality.
+
+<p alight="right"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="60"></p>
 
 <!-- 
 GitHub, GitLab, Docker, Ansible
