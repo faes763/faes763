@@ -2,7 +2,7 @@
 
 <table align="right">
  <tr><td>I known</td></tr>
- <tr><td><img src="assets/england.png" height="13"> English</td></tr>
+ <tr><td><img src="assets/english.png" height="13"> English</td></tr>
  <tr><td><img src="assets/russia.png" height="13"> Russian</td></tr>
 </table>
 
