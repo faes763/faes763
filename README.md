@@ -49,8 +49,8 @@ linux
   ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
   ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)\
-  ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;\
+  ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)
+  ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)
   ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
   ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
   ![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
