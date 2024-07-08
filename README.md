@@ -1,7 +1,7 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, there! </h1>
 
 <table align="right">
- <tr><td>Language i known</td></tr>
+ <tr><td>I known</td></tr>
  <tr><td><img src="assets/england.png" height="13"> English</td></tr>
  <tr><td><img src="assets/russia.png" height="13"> Russian</td></tr>
 </table>
@@ -55,17 +55,16 @@ linux
   <summary>Other knowledge, always learning</summary>
   <br/>
   
-  ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
   ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)
-  ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)\
-  ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
+  ![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
   ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;\
   ![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
+  ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
   ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;\
-  ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
-  ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;\
+  ![GRAPHQL](https://img.shields.io/badge/GRAPHQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;\
   ![Cryptocurrencies](https://img.shields.io/badge/CRYPTOCURRENCY-00979D.svg?&style=flat&logo=cryptocurrency&logoColor=black)&nbsp;
   ![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)&nbsp;
   <!--  -->
