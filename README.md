@@ -6,8 +6,6 @@
  <tr><td><img width="20px" src="assets/russia.png" height="13"> Russian</td></tr>
 </table>
 
-<p alight="right"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="30"></p>
-
 ### **About me**
 
 :: technology: Frontend and Blockchain Developer.
@@ -16,6 +14,7 @@
 
 :: writing hand:  Currently researching software architecture, development, and quality.
 
+<p alight="right"><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="30"></p>
 
 <!-- 
 GitHub, GitLab, Docker, Ansible
