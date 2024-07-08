@@ -80,9 +80,7 @@ linux
   <p align="center">
     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faes763&theme=tokyonight" >
   </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="32.5%">
-  <img src="https://github-readme-stats.vercel.app/api?username=faes763&show_icons=true&theme=tokyonight" width="32.5%">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" width="32.5%">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=faes763&show_icons=true&theme=tokyonight" width="32.5%">
 
 </details>
