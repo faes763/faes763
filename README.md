@@ -20,6 +20,7 @@ postgresql, pgadmin, mysql, sqlite.
 clean architecture
 linux
 -->
+<hr>
 
 <details>
   <summary>Main tech knowledge</summary>
