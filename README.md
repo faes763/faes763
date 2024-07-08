@@ -12,12 +12,13 @@ class About extends Me {
   const myTools = {  
     "ProgramingLanguages" : [ "Typescript", "Javascript", "C#", "Solidity" ],
     "OtherLanguages" : [ "HTML", "CSS", "Bash", "Json", "Markdown" ],
-    "Database" : [ "SQL", "MongoDB" ],
+    "Database" : [ "PostgresSQL", "MongoDB" ],
     "Editors" : [ "Vscode", "Zed", "Neovim" ],
     "Platforms" : [ "Mac", "GNU/Linux", "Windows" ],
     "OtherTools" : [ "Git", "Figma" ]
   };
 }
+```
 
 <table align="right">
  <tr><td>I known</td></tr>
@@ -25,7 +26,7 @@ class About extends Me {
  <tr><td><img width="20px" src="assets/russia.png" height="13"> Russian</td></tr>
 </table>
 
-```
+
 ### **About me**
 
 :: technology: Frontend and Blockchain Developer.
