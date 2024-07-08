@@ -30,10 +30,10 @@ linux
   <br/>
 
   ![Clean Architecture](https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white)&nbsp;
+  ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
   ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
   ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;\
   ![Blockchain](https://img.shields.io/badge/BLOCKCHAIN-121D33.svg?&style=flat&logo=blockchain-dot-com&logoColor=white)&nbsp;
-  ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
   ![Ton](https://img.shields.io/badge/TON-%232AABEE?logo=ton&logoColor=%23fff)
   ![Ethereum](https://img.shields.io/badge/ETHEREUM-3C3C3D.svg?&style=flat&logo=ethereum&logoColor=white)&nbsp;\
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
@@ -42,7 +42,7 @@ linux
   ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
   ![React](https://img.shields.io/badge/REACT-%23323330?logo=react)
   ![Next](https://img.shields.io/badge/NEXT-%23323330?logo=next)
-  ![Zustand](https://img.shields.io/badge/ZUSTAnD-%232B58B0?logo=zustand)\
+  ![Zustand](https://img.shields.io/badge/ZUSTAND-%232B58B0?logo=zustand)\
   ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
   ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
